@@ -1,0 +1,26 @@
+{
+  "name": "hearthstone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/postor/hearthstone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/postor/hearthstone/issues"
+  },
+  "homepage": "https://github.com/postor/hearthstone#readme",
+  "dependencies": {
+    "browserify-middleware": "^7.1.0",
+    "express": "^4.14.0",
+    "jade-static": "^1.1.2",
+    "node-sass-middleware": "^0.10.0",
+    "socket.io": "^1.7.2"
+  }
+}
