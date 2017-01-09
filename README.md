@@ -7,9 +7,11 @@
 - browserfy
 
 ## set up
+```bath
+git clone https://github.com/postor/express.io.git myproj
+cd myproj
+npm install
+node app.js
+start http://localhost
+```
 
-`git clone https://github.com/postor/express.io.git myproj`
-`cd myproj`
-`npm install`
-`node app.js`
-`start http://localhost`
