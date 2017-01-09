@@ -13,4 +13,4 @@ cd myproj
 npm install
 node app.js
 ```
-open start http://localhost and you get a basic chat room
+open [http://localhost](http://localhost) and you get a basic chat room
