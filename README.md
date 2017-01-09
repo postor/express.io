@@ -12,6 +12,5 @@ git clone https://github.com/postor/express.io.git myproj
 cd myproj
 npm install
 node app.js
-start http://localhost
 ```
-and you get a basic chat room
+open start http://localhost and you get a basic chat room
