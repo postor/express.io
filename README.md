@@ -14,4 +14,4 @@ npm install
 node app.js
 start http://localhost
 ```
-and you get a real time chat room
+and you get a basic chat room
