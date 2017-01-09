@@ -1,6 +1,6 @@
 {
   "name": "express.io.boilerplate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "app.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/postor/hearthstone.git"
+    "url": "git+https://github.com/postor/express.io"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/postor/hearthstone/issues"
+    "url": "https://github.com/postor/express.io/issues"
   },
-  "homepage": "https://github.com/postor/hearthstone#readme",
+  "homepage": "https://github.com/postor/express.io#readme",
   "dependencies": {
     "browserify-middleware": "^7.1.0",
     "express": "^4.14.0",
